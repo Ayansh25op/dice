@@ -21,11 +21,11 @@ input.onGesture(Gesture.Shake, function () {
     }
     if (Number2 == 3) {
         basic.showLeds(`
-            . . . . #
             . . . . .
+            . . . # .
             . . # . .
+            . # . . .
             . . . . .
-            # . . . .
             `)
     }
     if (Number2 == 4) {
