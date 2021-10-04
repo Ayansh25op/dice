@@ -49,9 +49,9 @@ input.onButtonPressed(Button.A, function () {
     if (Number2 == 6) {
         basic.showLeds(`
             . . . . .
-            . # # # .
-            . # # # .
-            . # # # .
+            . # . # .
+            . # . # .
+            . # . # .
             . . . . .
             `)
     }
@@ -106,9 +106,9 @@ input.onButtonPressed(Button.B, function () {
     if (Number2 == 6) {
         basic.showLeds(`
             . . . . .
-            . # # # .
-            . # # # .
-            . # # # .
+            . # . # .
+            . # . # .
+            . # . # .
             . . . . .
             `)
     }
@@ -163,9 +163,9 @@ input.onGesture(Gesture.Shake, function () {
     if (Number2 == 6) {
         basic.showLeds(`
             . . . . .
-            . # # # .
-            . # # # .
-            . # # # .
+            . # . # .
+            . # . # .
+            . # . # .
             . . . . .
             `)
     }
@@ -220,9 +220,9 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
     if (Number2 == 6) {
         basic.showLeds(`
             . . . . .
-            . # # # .
-            . # # # .
-            . # # # .
+            . # . # .
+            . # . # .
+            . # . # .
             . . . . .
             `)
     }
